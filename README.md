@@ -1,2 +1,2 @@
 # SpotifyClone
-music application project
+music application project using java css javascript
